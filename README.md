@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Saad and I've recently completed my vootcamp in Software/Web developement, from <u>Tech Educators</u></h2>
+## Hi 👋, I'm Saad Rangara
 
-###
+### 📊 Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saad-rangara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -11,7 +11,7 @@
 
 <img align="right" height="150" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />
 
-###
+### 🔨 Languages and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -23,6 +23,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" height="30"/>
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgresSQL" height="30" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.JS" height="30" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" height="30" />
 </div>
 
 ###
@@ -63,6 +71,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.JS logo" height="40" />
 </div>
 
 ###
