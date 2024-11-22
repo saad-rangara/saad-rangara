@@ -31,9 +31,12 @@
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.JS" height="30" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" height="30" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="TailwindCSS" height="30" />
+  <img width="12" />
 </div>
 
-###
+### Reach Out
 
 <div align="left">
   <a href="https://www.instagram.com/saad_rangara/">
@@ -55,25 +58,9 @@
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div> -->
-###
 
-<br clear="both">
-
+### Repositories Stats
 <img src="https://raw.githubusercontent.com/saad-rangara/saad-rangara/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.JS logo" height="40" />
-</div>
 
 ###
 
