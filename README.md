@@ -7,7 +7,28 @@
 </div>
 
 ## Hi 👋, I'm Saad Rangara
+I am a passionate full-stack developer with expertise in web development, problem-solving, and building efficient, scalable solutions. With hands-on experience in **HTML**, **CSS**, **JavaScript**, **React.js**, and **Next.js**, I thrive on exploring new technologies and developing innovative projects. 
 
+My goal is to write clean, maintainable code and continuously improve my technical skills to contribute to impactful software development.
+
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+
+
+Let's connect and build something amazing together! 🚀
+
+
+<img align="right" height="250" width="360" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />
+
+### 🧐 More About Me:
+- 🌱 &nbsp; I’m currently learning Typescript; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/saad-rangara?tab=repositories)
+- 🎨 &nbsp; Using [this svg](https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg) 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/saad-rangara/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/0B7H1y8hpx_aESVFUcmxoV1RfbzFPNmE4MEJLNWgyYUZ1aGtF/view?usp=sharing&resourcekey=0-TO6CLS3fbHslu2jeZhMT5g)
+- 📚 &nbsp; When I am free, I learn and try to work on new **projects**.
+
+  
 ### 📊 Github Stats
 
 <div align="center">
@@ -15,22 +36,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saad-rangara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />
-
 ### 🔨 Languages and Tools:
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" height="30"/>
   <img width="12" />
@@ -40,7 +57,11 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" height="30" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="TailwindCSS" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" alt="TailwindCSS" height="30" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" alt="TailwindCSS" height="30" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" alt="TailwindCSS" height="30" />
   <img width="12" />
 </div>
 
