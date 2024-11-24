@@ -45,7 +45,7 @@
   <img width="12" />
 </div>
 
-### :mailbox:Reach Out
+### :mailbox: Reach Out
 
 <div align="left">
   <a href="https://www.instagram.com/saad_rangara/">
@@ -59,7 +59,7 @@
 </div>
 <!-- <img src="https://komarev.com/ghpvc/?username=saad-rangara&style=flat-square&color=blue" alt=""/> -->
 
-### Repositories Stats
+### :eight_pointed_black_star: Repositories Stats
 <img src="https://raw.githubusercontent.com/saad-rangara/saad-rangara/output/snake.svg" alt="Snake animation" />
 
 ###
