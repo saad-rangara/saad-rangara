@@ -56,17 +56,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
       <tr valign="top">
         <td width="80px" align="center">
           <span
-            ><sup><b>JavaScript</b></sup></span
-          ><br />
-          <img
-            alt="JavaScript"
-            title="JavaScript"
-            width="50px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-          />
-        </td>
-        <td width="80px" align="center">
-          <span
             ><sup><b>HTML5</sup></b></span
           ><br />
           <img
@@ -85,6 +74,17 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
             title="CSS3"
             width="50px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+          />
+        </td>
+        <td width="80px" align="center">
+          <span
+            ><sup><b>JavaScript</b></sup></span
+          ><br />
+          <img
+            alt="JavaScript"
+            title="JavaScript"
+            width="50px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
           />
         </td>
         <td width="80px" align="center">
