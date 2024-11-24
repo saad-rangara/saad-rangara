@@ -46,10 +46,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   <summary>MY SKILLS</summary>
 
   <div align="center">
-    <i
-      >Languages, Frameworks and Databases are ordered by proficiency (highest
-      to lowest)</i
-    >
+    <i>Languages, Frameworks and Databases are ordered by proficiency (highest
+      to lowest)</i>
   </div>
 
   <div align="center"><h3>Languages</h3></div>
@@ -65,17 +63,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
             title="JavaScript"
             width="50px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-          />
-        </td>
-        <td width="80px" align="center">
-          <span
-            ><sup><b>TypeScript</b></sup></span
-          ><br />
-          <img
-            alt="TypeScript"
-            title="TypeScript"
-            width="50px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
           />
         </td>
         <td width="80px" align="center">
@@ -100,6 +87,17 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
           />
         </td>
+        <td width="80px" align="center">
+          <span
+            ><sup><b>TypeScript</b></sup></span
+          ><br />
+          <img
+            alt="TypeScript"
+            title="TypeScript"
+            width="50px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          />
+        </td>
       </tr>
     </tbody>
   </table>
@@ -108,17 +106,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   <table align="center" width="400px">
     <tbody>
       <tr valign="top">
-        <td width="80px" align="center">
-          <span
-            ><sup><b>Next.js</sup></b></span
-          ><br />
-          <img
-            alt="Next.js"
-            title="Next.js"
-            width="50px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-          />
-        </td>
         <td width="80px" align="center">
           <span
             ><sup><b>Node.js</sup></b></span
@@ -150,6 +137,17 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
             title="React"
             width="50px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+          />
+        </td>
+        <td width="80px" align="center">
+          <span
+            ><sup><b>Next.js</sup></b></span
+          ><br />
+          <img
+            alt="Next.js"
+            title="Next.js"
+            width="50px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
           />
         </td>
       </tr>
