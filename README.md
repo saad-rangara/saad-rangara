@@ -348,7 +348,7 @@ _Check out [my wakatime profile](https://wakatime.com/@saadrangara) to see more 
 
 ![Profile Views](https://profile-counter.glitch.me/saad-rangara/count.svg)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.2%20million%20lines%20of%20code-blue)
+<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.2%20million%20lines%20of%20code-blue) -->
 
  Last Updated on 24/11/2024 12:44:16 UTC
 <!--END_SECTION:waka-->
