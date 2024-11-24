@@ -343,49 +343,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 _Check out [my wakatime profile](https://wakatime.com/@saadrangara) to see more stats_
 
-<img width="50%" alt="Saad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saad-rangara&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
+<img width="75%" alt="Saad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saad-rangara&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
 
   <!--START_SECTION:waka-->
-![Code Time](https://wakatime.com/badge/user/1dd569d4-0dda-4299-bd5d-c6bf9cc5933f.svg)
+![Code Time](https://wakatime.com/badge/user/1dd569d4-0dda-4299-bd5d-c6bf9cc5933f.svg?style=for-the-badge)
 
 ![Profile Views](https://profile-counter.glitch.me/saad-rangara/count.svg)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.2%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5483 commits        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-🌆 Daytime                16009 commits       ██████████████░░░░░░░░░░░   54.10 % 
-🌃 Evening                5976 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-🌙 Night                  2124 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   5406 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Tuesday                  4491 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Wednesday                6033 commits        █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Thursday                 4571 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Friday                   7063 commits        ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-Saturday                 693 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Sunday                   1335 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    13 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
-```
-
 
  Last Updated on 24/11/2024 12:44:16 UTC
 <!--END_SECTION:waka-->
@@ -393,44 +358,5 @@ Windows                  13 mins             ███████████�
 </div>
 </details>
 
-
-<!-- ### 🔨 Languages and Tools:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" height="30"/>
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgresSQL" height="30" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.JS" height="30" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" height="30" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" alt="TailwindCSS" height="30" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" alt="TailwindCSS" height="30" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" alt="TailwindCSS" height="30" />
-  <img width="12" />
-</div> -->
-<!-- <img src="https://komarev.com/ghpvc/?username=saad-rangara&style=flat-square&color=blue" alt=""/> -->
-
-### :eight_pointed_black_star: Repositories Stats
-<img src="https://raw.githubusercontent.com/saad-rangara/saad-rangara/output/snake.svg" alt="Snake animation" />
-
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/saad-rangara/count.svg?"  />
-</div>
-
-###
