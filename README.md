@@ -344,7 +344,7 @@ _Check out [my wakatime profile](https://wakatime.com/@saadrangara) to see more 
 <img width="75%" alt="Saad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saad-rangara&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
 
   <!--START_SECTION:waka-->
-![Code Time]([![wakatime](https://wakatime.com/badge/user/1dd569d4-0dda-4299-bd5d-c6bf9cc5933f.svg)](https://wakatime.com/@1dd569d4-0dda-4299-bd5d-c6bf9cc5933f))
+![Code Time]([https://wakatime.com/badge/user/1dd569d4-0dda-4299-bd5d-c6bf9cc5933f.svg)
 
 ![Profile Views](https://profile-counter.glitch.me/saad-rangara/count.svg)
 
